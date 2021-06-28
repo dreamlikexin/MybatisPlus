@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b2ca281-ebad-4ed7-9106-0acd2ece7dc0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="mpdemo01" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="95b0659f-6614-4832-8113-14dab1ab793a" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/SoftWare/maven3.6/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="C:\SoftWare\maven3.6\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1uYY5e2t9xINmDGvCh7YsPKro3S" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.angshou.mpdemo01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Mpdemo01ApplicationTests.addUser">
+    <configuration name="Mpdemo01ApplicationTests.addUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mpdemo01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.angshou.mpdemo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.angshou.mpdemo01" />
+      <option name="MAIN_CLASS_NAME" value="com.angshou.mpdemo01.Mpdemo01ApplicationTests" />
+      <option name="METHOD_NAME" value="addUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mpdemo01ApplicationTests.deleteUser2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mpdemo01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.angshou.mpdemo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.angshou.mpdemo01" />
+      <option name="MAIN_CLASS_NAME" value="com.angshou.mpdemo01.Mpdemo01ApplicationTests" />
+      <option name="METHOD_NAME" value="deleteUser2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mpdemo01ApplicationTests.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mpdemo01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.angshou.mpdemo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.angshou.mpdemo01" />
+      <option name="MAIN_CLASS_NAME" value="com.angshou.mpdemo01.Mpdemo01ApplicationTests" />
+      <option name="METHOD_NAME" value="findAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mpdemo01ApplicationTests.testSelectBatchIds" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mpdemo01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.angshou.mpdemo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.angshou.mpdemo01" />
+      <option name="MAIN_CLASS_NAME" value="com.angshou.mpdemo01.Mpdemo01ApplicationTests" />
+      <option name="METHOD_NAME" value="testSelectBatchIds" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mpdemo01ApplicationTests.testSelectPage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mpdemo01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.angshou.mpdemo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.angshou.mpdemo01" />
+      <option name="MAIN_CLASS_NAME" value="com.angshou.mpdemo01.Mpdemo01ApplicationTests" />
+      <option name="METHOD_NAME" value="testSelectPage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mpdemo01Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="mpdemo01" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.angshou.mpdemo01.Mpdemo01Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.Mpdemo01ApplicationTests.addUser" />
+        <item itemvalue="JUnit.Mpdemo01ApplicationTests.findAll" />
+        <item itemvalue="JUnit.Mpdemo01ApplicationTests.deleteUser2" />
+        <item itemvalue="JUnit.Mpdemo01ApplicationTests.testSelectPage" />
+        <item itemvalue="JUnit.Mpdemo01ApplicationTests.testSelectBatchIds" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b2ca281-ebad-4ed7-9106-0acd2ece7dc0" name="Default Changelist" comment="" />
+      <created>1624843808629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624843808629</updated>
+      <workItem from="1624843812310" duration="9913000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="261" y="0" key="#Notifications" timestamp="1624856708354">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="261" y="0" key="#Notifications/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1624856708354" />
+    <state x="530" y="57" key="#com.intellij.ide.util.MemberChooser" timestamp="1624848274801">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="530" y="57" key="#com.intellij.ide.util.MemberChooser/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1624848274801" />
+    <state x="259" y="332" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1624845736686">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="259" y="332" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1624845736686" />
+    <state x="529" y="286" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1624845738455">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="529" y="286" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1624845738455" />
+    <state x="499" y="115" key="FileChooserDialogImpl" timestamp="1624857438952">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="499" y="115" key="FileChooserDialogImpl/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1624857438952" />
+    <state x="568" y="311" width="429" height="228" key="Github.CreateGistDialog" timestamp="1624856834896">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="568" y="311" width="429" height="228" key="Github.CreateGistDialog/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1624856834896" />
+    <state x="615" y="286" width="320" height="261" key="Github.ShareDialog" timestamp="1624857553027">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="615" y="286" width="320" height="261" key="Github.ShareDialog/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1624857553027" />
+    <state width="1481" height="357" key="GridCell.Tab.0.bottom" timestamp="1624856639247">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="357" key="GridCell.Tab.0.bottom/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1624856639247" />
+    <state width="1481" height="357" key="GridCell.Tab.0.center" timestamp="1624856639246">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="357" key="GridCell.Tab.0.center/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1624856639246" />
+    <state width="1481" height="357" key="GridCell.Tab.0.left" timestamp="1624856639246">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="357" key="GridCell.Tab.0.left/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1624856639246" />
+    <state width="1481" height="357" key="GridCell.Tab.0.right" timestamp="1624856639246">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1481" height="357" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1624856639246" />
+    <state x="157" y="0" key="SettingsEditor" timestamp="1624856822199">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="157" y="0" key="SettingsEditor/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1624856822199" />
+    <state x="406" y="199" key="com.intellij.ide.util.TipDialog" timestamp="1624843817138">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="406" y="199" key="com.intellij.ide.util.TipDialog/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1624843817138" />
+  </component>
+</project>
