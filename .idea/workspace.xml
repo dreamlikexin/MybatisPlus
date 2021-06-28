@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b2ca281-ebad-4ed7-9106-0acd2ece7dc0" name="Default Changelist" comment="" />
+    <list default="true" id="2b2ca281-ebad-4ed7-9106-0acd2ece7dc0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,9 +28,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="95b0659f-6614-4832-8113-14dab1ab793a" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -186,7 +185,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624843808629</updated>
-      <workItem from="1624843812310" duration="10188000" />
+      <workItem from="1624843812310" duration="11436000" />
     </task>
     <task id="LOCAL-00001" summary="初步学习 MybatisPlus">
       <created>1624857616891</created>
@@ -195,11 +194,36 @@
       <option name="project" value="LOCAL" />
       <updated>1624857616891</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="初步学习 MybatisPlus">
+      <created>1624857698597</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1624857698597</updated>
+    </task>
+    <task id="LOCAL-00003" summary="初步学习 MybatisPlus">
+      <created>1624857779464</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1624857779464</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="初步学习 MybatisPlus" />
@@ -222,10 +246,10 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="529" y="286" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1624845738455" />
-    <state x="178" y="0" key="CommitChangelistDialog2" timestamp="1624857689858">
+    <state x="178" y="0" key="CommitChangelistDialog2" timestamp="1624858024803">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="178" y="0" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1624857689858" />
+    <state x="178" y="0" key="CommitChangelistDialog2/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1624858024803" />
     <state x="499" y="115" key="FileChooserDialogImpl" timestamp="1624857438952">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
@@ -254,10 +278,14 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="1481" height="357" key="GridCell.Tab.0.right/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1624856639246" />
-    <state x="157" y="0" key="SettingsEditor" timestamp="1624856822199">
+    <state x="157" y="0" key="SettingsEditor" timestamp="1624858877890">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="157" y="0" key="SettingsEditor/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1624856822199" />
+    <state x="157" y="0" key="SettingsEditor/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1624858877890" />
+    <state x="261" y="71" key="Vcs.Push.Dialog.v2" timestamp="1624858076793">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="261" y="71" key="Vcs.Push.Dialog.v2/0.0.1536.834/1920.0.1536.834@0.0.1536.834" timestamp="1624858076793" />
     <state x="406" y="199" key="com.intellij.ide.util.TipDialog" timestamp="1624843817138">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
